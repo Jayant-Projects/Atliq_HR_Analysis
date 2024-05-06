@@ -36,6 +36,8 @@ To meet these requirements, I took the following actions:
 4. **Present Days**
 5. **Work From Home Count**
 6. **Sick Leave Count**
+   
+![Screenshot 2024-05-06 101537](https://github.com/Jayant-Projects/Power_BI-HR_Analysis/assets/142287323/60d5b9cc-e992-430d-a0ba-8ff59f3051b9)
 
 ## Results Achieved
 
