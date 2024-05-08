@@ -53,7 +53,7 @@ The project yielded several valuable results:
 
 Throughout this project, I gained valuable experience and skills:
 
-1. **Data-Driven Narratives:** I learned how to convey data-driven narratives through aesthetically pleasing dashboards.
+1. **Data-Driven Narratives:** I learned to convey data-driven narratives through aesthetically pleasing dashboards.
 
 2. **Understanding HR Needs:** I gained an in-depth understanding of HR's data-driven needs and expectations.
 
@@ -61,11 +61,11 @@ Throughout this project, I gained valuable experience and skills:
 
 4. **Analytical and Visualization Skills:** I developed analytical and visualization acumen, enabling data-driven decision-making.
 
-5. **Chart Selection:** I learned how to select the most suitable chart types for effective data visualization.
+5. **Chart Selection:** I learned to select the most suitable chart types for effective data visualization.
 
 6. **Problem Solving:** I harnessed effective problem-solving skills through online research.
 
 7. **Advanced Dashboard Techniques:** I employed advanced dashboard techniques to elevate the quality of visualizations.
 
-This project exemplifies the power of data analytics in HR and serves as a testament to the skills and knowledge gained in the realm of Power BI and data visualization.
+This project exemplifies the power of data analytics in HR and serves as a testament to the skills and knowledge gained in Power BI and data visualization.
 
