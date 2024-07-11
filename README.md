@@ -1,5 +1,7 @@
 # HR Data Analytics Challenge with Power BI
 
+### Live Dashboard - [Link](https://mavenanalytics.io/project/17022)
+
 ## Overview
 
 In this project, I took on the HR Data Analytics challenge presented by Pinali Mandalia, HR at AtliQ Technologies. The objective was to create an automated Data Analytics Dashboard using Power BI to gain valuable insights into employee preferences and wellness.
